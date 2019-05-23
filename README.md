@@ -1,2 +1,2 @@
 # ds-mle
-Zadanie rekrutacyjne DS &amp; MLE, Pearson
+DS & MLE internship recruitment task
