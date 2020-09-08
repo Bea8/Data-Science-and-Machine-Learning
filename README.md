@@ -1,2 +1,2 @@
-# ds-mle
-DS & MLE internship recruitment task
+# Data Science and Machine Learning
+DS & ML internship recruitment task
